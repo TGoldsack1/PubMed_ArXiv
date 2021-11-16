@@ -1,0 +1,9 @@
+arxiv-dataset/
+pubmed-dataset/
+cookie
+*.zip
+
+created_data/pubmed_sims_5000.json
+created_data/arxiv_sims_5000.json
+
+nohup.out
